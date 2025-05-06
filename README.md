@@ -77,7 +77,7 @@ byb-poc/
 
 ## 🔐 API Endpoint
 
-### `GET /download/:token`
+### `GET /download/:token?propertyName='123 Street Property'`
 
 **Description:** Downloads a protected PDF report using a JWT token for authentication.
 
